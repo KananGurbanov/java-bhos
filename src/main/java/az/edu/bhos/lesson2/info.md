@@ -1,4 +1,4 @@
-2. Java Basics  
+Java Basics  
     c. Storing Data - Variables
         •	Declaration & Initialization
     d. Data Types
@@ -10,9 +10,27 @@
         •	Single-line comments
         •	Multi-line (block) comments
         •	Documentation comments
-    f. Operations
-        •	Arithmetic operations
-        •	Relational operations
-        •	Logical operations
-        •	Assignment operations
-        •	Miscellaneous operations
+
+String Class
+    a. Character Array vs String
+    b. String Under the Hood
+    c. Important Methods in String Class
+        •	toLowerCase(), toUpperCase()
+        •	substring(), trim()
+        •	indexOf(String s), indexOf(int i)
+        •	split(), replace(), length(), concat()
+    d. Memory (RAM) Introduction
+        •	Stack vs Heap
+    e. String Memory Management
+        •	String Pool
+    f. References & How They Work
+    g. Passing Values
+        •	Pass-by-Value
+        •	Pass-by-Reference
+    h. String Concatenation
+        •	+ operator
+        •	concat()
+        •	StringBuilder
+        •	StringBuffer
+        •	Comparison of the above
+
