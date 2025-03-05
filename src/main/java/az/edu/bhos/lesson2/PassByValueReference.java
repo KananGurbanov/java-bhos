@@ -1,4 +1,4 @@
-package az.edu.bhos.lesson3;
+package az.edu.bhos.lesson2;
 
 class PersonNew {
     String name;
