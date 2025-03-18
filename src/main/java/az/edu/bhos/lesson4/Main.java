@@ -1,5 +1,7 @@
 package az.edu.bhos.lesson4;
 
+import az.edu.bhos.lesson5.Human;
+
 public class Main {
     public static void main(String[] args) {
         Car car1 = new Car(CarType.BMW, "black", 50000.0);
