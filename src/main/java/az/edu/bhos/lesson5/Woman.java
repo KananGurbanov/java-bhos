@@ -5,6 +5,9 @@ public class Woman extends Human {
         super(name, age, pet);
     }
 
+    public Woman() {
+    }
+
     public void giveBirth() {
         System.out.println("New baby!");
     }

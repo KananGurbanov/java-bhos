@@ -52,15 +52,6 @@ public abstract class Human {
     public abstract void greetTo(String name);
 
     @Override
-    public String toString() {
-        return "Human{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", pet=" + pet +
-                '}';
-    }
-
-    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
@@ -71,5 +62,9 @@ public abstract class Human {
     @Override
     public int hashCode() {
         return Objects.hash(name, age, pet);
+    }
+
+    protected void speak(){
+        System.out.println("Human is speaking");
     }
 }
