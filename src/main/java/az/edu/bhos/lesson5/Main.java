@@ -45,10 +45,12 @@ public class Main {
 
         man3.run();
 
+        get(man2);
+
     }
 
-    static void get(Human h){
-        h.speak();
+    static void get(Man m){
+        m.speak();
     }
 
 
