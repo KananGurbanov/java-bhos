@@ -17,3 +17,18 @@ ________________________________________
    •	HAS-A relationship
    •	Object class
    •	toString(), equals(), hashCode()
+
+   e. Polymorphism
+   g. Abstraction
+   i. Keywords: this, super, instanceof
+   j. @Override Annotation
+   k. Compile-Time vs Runtime Polymorphism
+   •	Compile-time (Method Overloading)
+   •	Runtime (Method Overriding)
+   ________________________________________
+9. Object-Oriented Programming (OOP) - Advanced Topics
+   a. Abstract Classes
+   c. Interfaces
+   e. Abstract Classes vs Interfaces (Deep Dive)
+   f. Functional & Marker Interfaces
+
